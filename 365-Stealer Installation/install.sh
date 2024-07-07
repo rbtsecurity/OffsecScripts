@@ -34,7 +34,7 @@ cd /opt/365-Stealer/yourVictims/
 # Start the PHP built-in server to run the management portal on port 8000, accessible from whiteListedIP address
 php -S 0.0.0.0:8000
 
-# Now navigate to this directory
+# Now navigate to this directory in a different terminal
 cd /opt/365-Stealer/
 
 # Check the options available for the 365-Stealer script
